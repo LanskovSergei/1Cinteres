@@ -1,0 +1,15 @@
+*.epf
+*.erf
+*.cf
+*.cfe
+*.dt
+*.1CD
+*.1CL
+build/
+*.log
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
